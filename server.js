@@ -17,7 +17,9 @@ app.use(cors({
     'http://localhost:5174', 
     'https://koozina.tn',
     'https://www.koozina.tn',
-    'https://admin.koozina.tn'
+    'https://admin.koozina.tn',
+    'https://koozina-frontend.onrender.com',
+    'https://koozina-admin.onrender.com'
   ],
   credentials: true
 }));
